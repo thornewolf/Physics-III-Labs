@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541616137 "report.tex" "report.pdf" "report" 1541616138
+["pdflatex"] 1541617128 "report.tex" "report.pdf" "report" 1541617129
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1480098668 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1480098668 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1480098668 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -214,18 +214,18 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "code.aux" 1541616137 585 548697c60edc127f60b3594202f8b7bf ""
+  "VaryingForce.png" 1541617063 26336 1ff4e1760b051f08b02191856c36c0a4 ""
+  "VaryingRadius.png" 1541617063 26247 b279ca451db5667fad96e3f99a332cd3 ""
+  "code.aux" 1541617129 585 548697c60edc127f60b3594202f8b7bf ""
   "code.tex" 1541616134 2067 d450b9c71252cc319ceada905aa7d243 ""
-  "images/VaryingForce.png" 1538626559 27124 585c7192d64478c8be809b3949fd4398 ""
-  "images/VaryingRadius.png" 1538626559 25258 b97580b224de68d98d17f43a658c0eec ""
   "images/equipment1.jpg" 1541615370 321150 a9db168fcf74c5df35b8480a80193cea ""
   "images/univ.png" 1527025094 67488 7f4ba349c8773925208d9c1f9ac88a34 ""
-  "report.aux" 1541616137 805 af41b02dadcc65dcd3f6e18e2f00ecbf ""
-  "report.tex" 1541616003 7931 2f330845de2fbdb5cd5c5bd634ed928f ""
+  "report.aux" 1541617129 805 af41b02dadcc65dcd3f6e18e2f00ecbf ""
+  "report.tex" 1541616165 7931 2f330845de2fbdb5cd5c5bd634ed928f ""
   "titlepage.tex" 1541572283 769 864875eca00ec6536b00c0ef718439d6 ""
   (generated)
+  "report.toc"
   "code.aux"
-  "report.aux"
   "report.pdf"
   "report.log"
-  "report.toc"
+  "report.aux"
