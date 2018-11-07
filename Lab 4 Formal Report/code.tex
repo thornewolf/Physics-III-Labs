@@ -26,7 +26,8 @@ def graph(fig_name, x, y, xlabel, ylabel, y_error):
     if y_error != None:
         plt.errorbar(x,y,yerr=y_error,fmt='none',ecolor='red')
 
-    plt.savefig(f"Lab 4 Formal Report/images/{''.join(fig_name.split())}.png")
+    plt.savefig(f"Lab 4 Formal Report/images/
+    {''.join(fig_name.split())}.png")
     print(f'''
 plotting for {fig_name}
     x = {xlabel}
@@ -57,7 +58,9 @@ inverse_t_squared = 1/(t**2)
 goal_slope = 4*np.pi**2*0.1365*0.16 #4pi^2Mr * 1/T^2
 
 x,y = inverse_t_squared,f
-graph("Varying Force", x, y, "Inverse Period Squared (1/s^2)", "Force (N)", 0.05)
+graph("Varying Force", x, y,
+"Inverse Period Squared (1/s^2)",
+"Force (N)", 0.05)
 
 
 
