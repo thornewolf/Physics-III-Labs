@@ -1,4 +1,4 @@
-PWD /Users/thornewolfenbarger/Desktop/School/Sophomore/Physics III Lab/Lab 2 Formal Report
+PWD /Users/thornewolfenbarger/Desktop/School/Sophomore/Physics III Lab/Lab 4 Formal Report
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -255,6 +255,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
 INPUT report.aux
 INPUT report.aux
+INPUT code.aux
+INPUT code.aux
 OUTPUT report.aux
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
@@ -350,7 +352,22 @@ INPUT images/VaryingRadius.png
 INPUT ./images/VaryingRadius.png
 INPUT images/VaryingForce.png
 INPUT ./images/VaryingForce.png
+INPUT images/equipment1.jpg
+INPUT ./images/equipment1.jpg
+INPUT ./images/equipment1.jpg
+OUTPUT code.aux
+INPUT code.tex
+INPUT code.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT report.aux
+INPUT code.aux
+INPUT code.aux
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
@@ -363,3 +380,4 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr6.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb
