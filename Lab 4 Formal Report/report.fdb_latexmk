@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541617128 "report.tex" "report.pdf" "report" 1541617129
+["pdflatex"] 1541634495 "report.tex" "report.pdf" "report" 1541634496
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1480098668 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1480098668 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1480098668 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -216,16 +216,18 @@
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "VaryingForce.png" 1541617063 26336 1ff4e1760b051f08b02191856c36c0a4 ""
   "VaryingRadius.png" 1541617063 26247 b279ca451db5667fad96e3f99a332cd3 ""
-  "code.aux" 1541617129 585 548697c60edc127f60b3594202f8b7bf ""
-  "code.tex" 1541616134 2067 d450b9c71252cc319ceada905aa7d243 ""
+  "code.aux" 1541634496 586 7955bd2b3d61ebf4d6063758b2cc3f30 ""
+  "code.tex" 1541632648 2447 8e93e9f7f3ff376278769207c42f3ba1 ""
+  "images/basiclevel.png" 1541632829 16731 e3cd1e1e21d96a74a7d3e6e589c67fae ""
   "images/equipment1.jpg" 1541615370 321150 a9db168fcf74c5df35b8480a80193cea ""
+  "images/triplebeam.png" 1541632957 327486 9cdcd50888ab6a56033a7f04e11a0791 ""
   "images/univ.png" 1527025094 67488 7f4ba349c8773925208d9c1f9ac88a34 ""
-  "report.aux" 1541617129 805 af41b02dadcc65dcd3f6e18e2f00ecbf ""
-  "report.tex" 1541616165 7931 2f330845de2fbdb5cd5c5bd634ed928f ""
+  "report.aux" 1541634496 975 9ec00dc4d53077ea89175441f93cbac2 ""
+  "report.tex" 1541634495 9744 1023561e8d9450761c7d7c2b27cf6960 ""
   "titlepage.tex" 1541572283 769 864875eca00ec6536b00c0ef718439d6 ""
   (generated)
   "report.toc"
+  "report.log"
   "code.aux"
   "report.pdf"
-  "report.log"
   "report.aux"

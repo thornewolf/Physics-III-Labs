@@ -32,10 +32,28 @@
 % \tableofcontents{}
 \newpage
 \begin{flushleft}
+\begin{flushright}
+\begin{scriptsize}
+  Thorne Wolfenbarger \#2456743\\
+  Samantha Carter\\
+  September 27, 2018, 09:00\\
+  Instructor: Dr. Darrel Smith\\
+  Lab Assistant: Megan Adamoli\\
+\end{scriptsize}
+\end{flushright}
+\begin{center}
+\Large \textbf{Lab 4: Centripetal Force}
+\end{center}
 
 \begin{multicols}{2}
-
-\section{Objective}
+\section{Abstract}
+In this lab we explore the effects of mass and radius on centripetal force.
+After testing a series of different radii and masses, we found that the period
+of rotation decreases with the radius a mass is spun at. We know this is not true theoretically and determines that we would need to run another set of tests to observe improvements in out data points. We also found that an increase in the mass of the mass held at some radius r is linearly proportional with the square of the period. In theory the radius the mass is help at should also be linearly proportional witht the square of the period. We also determined that the centripetal force is linearly proportional with the inverse of the square of the period. i.e.\\
+$r\propto T^2$,
+$M\propto T^2$,
+$F_c\propto \frac{1}{T^2}$
+\section{Introduction}
 In this lab the objective is to discover what forces are involved when an
 object with a large mass is brought along a curved path. Observing these forces
 will allow us to explore the concept of force, centripetal acceleration, and
@@ -51,10 +69,19 @@ observed mass. To do so, we will need a few equations.
 \end{align}
 \section{Equipment}
 In this lab we will use a Centripetal Force Apparatus to determine forces on the objects on it when spun. We will use a pulley for hangin masses off of. A string will connect out masses with out machines.
-Masses are to be used for every piece of equipment that mentions a mass. A mass hangas will elevate the masses for the purpose of the lab. We will use a bubble level to ensure out tooling is level. A triple beam balance will be used to determine the mass of out masses.\\ All equipment is  displayed in the Appendix.
+Masses are to be used for every piece of equipment that mentions a mass. A mass hanger will elevate the masses for the purpose of the lab. We will use a bubble level to ensure out tooling is level. A triple beam balance will be used to determine the mass of out masses.\\ All equipment is  displayed in the Appendix.
 \section{Procedure}
 We begin the lab by ensuring that the center post assembly is at the center of the track.
-We then adjust the leveling screws to ensure that the Apparatus is level. We then select a mass to attach to the hangar and move the side post assembly to our specified radius of 15 cm. We adjust the system to find an equilibrium point where all strings are staight. We adjust the height of the indicator bracket to match the pink disk. We remove the mass and spin the apparatus to return the pink disk to the indicator. We log data for multiple radii.
+We then adjust the leveling screws to ensure that the Apparatus is level. We then select a mass to attach to the hanger and move the side post assembly to our specified radius of 15 cm. We adjust the system to find an equilibrium point where all strings are staight. We adjust the height of the indicator bracket to match the pink disk. We remove the mass and spin the apparatus to return the pink disk to the indicator. We log data for multiple radii.\\
+For all measurements the following uncertianties are true\\
+\begin{center}
+\begin{tabular}{lcll}
+$\Delta M$ & = & 0.00005 & (kg)\\
+$\Delta r$ & = & 0.0005 & (m)\\
+$\Delta F_c$ & = & $\Delta M*g$ & (N)\\
+$\Delta T$ & = & 0.15 & (s)\\
+\end{tabular}
+\end{center}
 \begin{center}
 \flushleft Table 1: Varying the Radius
 \footnotesize
@@ -85,7 +112,6 @@ Trial \# & M (kg) & r (m) & $F_c = mg (N)$ & T (s) \\
 \hline
 \end{tabular}
 \end{center}
-\vspace{0.5cm}
 We repeat the steps above with multiple masses.
 \begin{center}
 \flushleft Table 3: Varying the Mass
@@ -99,9 +125,9 @@ Trial \# & M (kg) & r (m) & $F_c = mg (N)$ & T (s) \\
 \hline
 \end{tabular}
 \end{center}
+\section{Results and Analysis}
+\subsection{Data Analysis}
 
-\newpage
-\section{Analysis}
 \large Part 1 \\ \normalsize
 We can rewrite equation (\ref{centripetal_force}) in the form
 \begin{equation}
@@ -157,12 +183,25 @@ $F_{exp}$ & $F_{theoretical}$ & $\%_{diff}$ \\
 \end{tabular}
 \end{center}
 
-\section{Error Analysis}
+\subsection{Error Analysis}
 In this las be experienced some large \% differences from the theoretical values that were expected. Possible sources of error arise when we look at the data collection process. We have to determine what level the pink indicator disk needs to be at for equilibrium. This is a source of error. Another source of error is determining what a complete spin is considered. This could be mitigated by an encoder attached to the apparatus that measures the angle. Manually timing is another source of error. This causes variation in out recorded times. In addition to the aforementioned encoder we could mitigate this error by choosing initial conditions that produce a large period. This reduces the fractional error from hand timing.
-
-\section{Conclusion}
-The purpose of this lab was to experimentally observe the variable that influence centripetal force. The results we got mainly supported the formula that we were testing but our varying radius experiment failed to support out formulas due to human error. From this lab we were able to determine the effects of radius and mass on the centripetal force of a spinning object.
+\section{Discussion}
+This lab comes to the conclusion that $r\propto -T^2$,
+$M\propto T^2$,
+$F_c\propto \frac{1}{T^2}$.\\
+We know that $r\propto T^2$ should be true due to experiments and theory that has been established prior to this lab. In order to remedy this error we would need to rerecord the data that we collected and ensure that the lab is properly being executed.
 \end{multicols}
+\begin{center}
+  \noindent\rule{8cm}{0.4pt}
+\end{center}
+\begin{flushleft}
+$[1]$ Smith, D. "PS340 Lecture" (2018).\\
+$[2]$ Gretarsson, Rhoades, Callahan "Laboratory Experiments In Physics for Engineers" (2018).\\
+$[3]$ Young, Freedman "University Physics with Modern Physics 14ed" $[2015]$
+\end{flushleft}
+
+
+\newpage
 \section{Appendix}
 \begin{large}
 Full Sized Figures \\
@@ -182,6 +221,10 @@ Equipment Sketches \\
 \begin{center}
   \includegraphics[scale=0.2]{equipment1}
   Figure 3: Spinning Apparatus
+  \includegraphics[scale=0.8]{basiclevel}
+  Figure 4: Bubble Level
+  \includegraphics[scale=0.4]{triplebeam}
+  Figure 5: Triple Beam Balance
 \end{center}
 \newpage
 \begin{large}

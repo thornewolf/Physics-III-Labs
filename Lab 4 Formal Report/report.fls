@@ -337,6 +337,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmbx12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
 INPUT VaryingRadius.png
 INPUT ./VaryingRadius.png
@@ -355,6 +356,12 @@ INPUT ./VaryingForce.png
 INPUT images/equipment1.jpg
 INPUT ./images/equipment1.jpg
 INPUT ./images/equipment1.jpg
+INPUT images/basiclevel.png
+INPUT ./images/basiclevel.png
+INPUT ./images/basiclevel.png
+INPUT images/triplebeam.png
+INPUT ./images/triplebeam.png
+INPUT ./images/triplebeam.png
 OUTPUT code.aux
 INPUT code.tex
 INPUT code.tex
@@ -366,10 +373,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT report.aux
 INPUT code.aux
 INPUT code.aux
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi12.pfb

@@ -1,1 +1,8 @@
-\contentsline {section}{\numberline {1}Lab 4: Centripetal Force}{2}
+\contentsline {section}{\numberline {1}Objective}{2}
+\contentsline {section}{\numberline {2}Theory}{2}
+\contentsline {section}{\numberline {3}Equipment}{2}
+\contentsline {section}{\numberline {4}Procedure}{2}
+\contentsline {section}{\numberline {5}Analysis}{4}
+\contentsline {section}{\numberline {6}Error Analysis}{4}
+\contentsline {section}{\numberline {7}Conclusion}{5}
+\contentsline {section}{\numberline {8}Appendix}{5}
