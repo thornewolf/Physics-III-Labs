@@ -88,6 +88,7 @@ slope = r['slope']
 book_slope = 2.3*10**-5
 pd = percent_difference(slope, book_slope)
 print(pd)
+print(delta_temperatures,delta_lengths*1000,sep='\n')
 
 fig_name = "Thermal Expansion of a Copper Rod"
 temperatures = np.array([81, 76, 69, 66, 61, 56, 51, 46, 41, 36, 31, 27]) #C
@@ -108,3 +109,4 @@ slope = r['slope']
 book_slope = 2.3*10**-5
 pd = percent_difference(slope, book_slope)
 print(pd)
+print(delta_temperatures,delta_lengths*1000,sep='\n')
